@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.wangl.jenkinsbuidtest.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-26T09:38:41" hostname="WangdeMacBook-Pro-2.local" time="0.001">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="com.example.wangl.jenkinsbuidtest.ExampleUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
